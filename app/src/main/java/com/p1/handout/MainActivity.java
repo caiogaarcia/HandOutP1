@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Toolbar toolbar = findViewById(R.id.toolbar);
         //tSupportActionBar(toolbar);
+        //passei aqui
     }
 
     @Override
