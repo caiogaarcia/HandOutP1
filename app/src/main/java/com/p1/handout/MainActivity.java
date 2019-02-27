@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         //tSupportActionBar(toolbar);
         //passei aqui
         // passei 2
+        //cainho ta na area
     }
 
     @Override
